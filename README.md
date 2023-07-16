@@ -9,7 +9,7 @@ Hi, I'm Yi Pan (aka Conless). I'm currently an undergraduate student at ACM Hono
 
 
 - 🔭 I’m currently working on **academic study**.
-- 🌱 I’m currently learning **Data Structure** in CS1951 @ SJTU.
+- 🌱 I’m currently learning **Principle and Practice of Computer Algorithms** in CS1952 @ SJTU.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Conless?tab=repositories).
 
 ## 🔗 Some Links
