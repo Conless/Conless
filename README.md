@@ -8,8 +8,8 @@
 Hi, I'm Yi Pan (aka Conless). I'm currently an undergraduate student at ACM Honor Class, Shanghai Jiao Tong University, major in computer science. Good to see you at my Github page!
 
 
-- 🔭 I’m currently working on **academic study**.
-- 🌱 I’m currently learning **Principle and Practice of Computer Algorithms** in CS1952 @ SJTU.
+- 🔭 I’m currently working on surviving the math courses and building a GPU.
+- 🌱 I’m currently learning Computer Architecture (CS2951@SJTU) and framework for ML System.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Conless?tab=repositories).
 
 ## 🔗 Some Links
