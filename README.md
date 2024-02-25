@@ -5,11 +5,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> **About Me:**
 
 <!-- <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"> -->
-Hi, I'm Yi Pan (aka Conless). I'm currently an undergraduate student at ACM Honor Class, Shanghai Jiao Tong University, major in computer science. Good to see you at my Github page!
+Hi, I'm Conless Y.Pan. I'm currently a second year undergraduate student at ACM Honor Class, Shanghai Jiao Tong University, major in computer science. Good to see you at my Github page!
 
 
-- 🔭 I’m currently working on surviving the math courses and building a GPU.
-- 🌱 I’m currently learning Computer Architecture (CS2951@SJTU) and framework for ML System.
+- 🔭 I’m currently working on project [Dolce](https://github.com/dolce-project).
+- 🌱 I’m currently learning Operating System and Machine Learning System.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Conless?tab=repositories).
 
 ## 🔗 Some Links
