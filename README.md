@@ -1,10 +1,11 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm Yi Pan, currently an undergraduate at the SJTU ACM Class. It's great to see you here! 😄
+I'm Yi Pan, a junior undergraduate from SJTU ACM Class. It's great to see you here! 😄
 
-- My research interests mainly lie in computer systems, especially effective computer architecture and machine learning systems.
-- I'm currently working on [remire OS](https://github.com/Conless/remire) (will be made public after this semester), an efficient microkernel written in Rust.
-- I focus on building computer systems with practical applications or educational value. Some of my recent projects are:
+- Aiming to build efficient, scalable, and reliable systems, I have broad research interests in computer systems. My current research mainly focuses on distributed systems and systems for machine learning.
+- I'm passionate about contributing to the open-source community! I've been fortunate to contribute to several amazing open-source projects, including [PyTorch](https://github.com/pytorch), [SkyPilot](https://github.com/skypilot-org) and [vLLM](https://github.com/vllm-project).
+- Some of my previous projects include:
+  - [Remire OS](https://github.com/Conless/remire), an efficient microkernel written in Rust.
   - [Gelato GPU](https://github.com/dolce-project/gelato), a general-purpose GPU supporting RISC-V ISA with a custom SIMT extension.
   - [CachedLLM](https://github.com/Conless/CachedLLM), an LLM serving system built on top of vLLM with dynamic page cache.
   - [Comet Compiler](https://github.com/Conless/comet), a compiler for Mx (a C-like programming language for educational purposes).
