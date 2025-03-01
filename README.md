@@ -12,7 +12,7 @@ I'm Yi Pan, a junior undergraduate from SJTU ACM Class. It's great to see you he
 
 ---
 
-* [Home Page](https://conless.dev)
+* [Home Page](https://conless.dev) (under maintenance)
 * [Curriculum Vitae](https://conless.dev/assets/pdf/resume.pdf)
 * [Blog](https://conless.dev/blog)
 
