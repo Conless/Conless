@@ -3,7 +3,7 @@
 I'm Yi Pan, a junior undergraduate from SJTU ACM Class. It's great to see you here! 😄
 
 - Aiming to build efficient, scalable, and reliable systems, I have broad research interests in computer systems. My current research mainly focuses on distributed systems and systems for machine learning.
-- I'm passionate about contributing to the open-source community! I've been fortunate to contribute to several amazing open-source projects, including [PyTorch](https://github.com/pytorch), [SkyPilot](https://github.com/skypilot-org) and [vLLM](https://github.com/vllm-project).
+- I'm passionate about contributing to the open-source community! I've been fortunate to contribute to several amazing open-source projects, including [PyTorch](https://github.com/pytorch), [SGLang](https://github.com/sgl-project/sglang), [SkyPilot](https://github.com/skypilot-org) and [vLLM](https://github.com/vllm-project).
 - Some of my previous projects include:
   - [Remire OS](https://github.com/Conless/remire), an efficient microkernel written in Rust.
   - [Gelato GPU](https://github.com/dolce-project/gelato), a general-purpose GPU supporting RISC-V ISA with a custom SIMT extension.
@@ -20,8 +20,8 @@ I'm Yi Pan, a junior undergraduate from SJTU ACM Class. It's great to see you he
 <summary>⚡️ More about my coding life</summary>
 <br />
 <p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Conless&show_icons=true&theme=tokyonight" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Conless&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Conless&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Conless&theme=tokyonight&hide_border=true" />
 </p>
 
 </details>
