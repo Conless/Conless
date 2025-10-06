@@ -1,18 +1,15 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm Yi Pan, a junior undergraduate from SJTU ACM Class. It's great to see you here! 😄
+I’m Yi Pan, a senior undergraduate from SJTU ACM Class, caffeine enthusiast, and systems tinkerer. Thanks for dropping by! 😄
 
-- Aiming to build efficient, scalable, and reliable systems, I have broad research interests in computer systems. My current research mainly focuses on distributed systems and systems for machine learning.
+- Currently I'm a research intern at UW [Systems Lab](https://syslab.cs.washington.edu/) / [SyFI](https://syfi.cs.washington.edu) / [efeslab](https://homes.cs.washington.edu/~baris/team/), where I get paid (in coffee) and do research in datacenter systems and systems for machine learning.
+- I’m eternally curious about building efficient, scalable, reliable systems that (may or may not) behave as intended. Some of the recent systems I built include [Nanoflow](https://github.com/efeslab/Nanoflow) and [eProf](https://github.com/uw-syfi/eProf).
 - I'm passionate about contributing to the open-source community! I've been fortunate to contribute to several amazing open-source projects, including [PyTorch](https://github.com/pytorch), [SGLang](https://github.com/sgl-project/sglang), [SkyPilot](https://github.com/skypilot-org) and [vLLM](https://github.com/vllm-project).
-- Some of my previous projects include:
-  - [Remire OS](https://github.com/Conless/remire), an efficient microkernel written in Rust.
-  - [Gelato GPU](https://github.com/dolce-project/gelato), a general-purpose GPU supporting RISC-V ISA with a custom SIMT extension.
-  - [CachedLLM](https://github.com/Conless/CachedLLM), an LLM serving system built on top of vLLM with dynamic page cache.
-  - [Comet Compiler](https://github.com/Conless/comet), a compiler for Mx (a C-like programming language for educational purposes).
+- When I’m not hunting segfaults/core dumps/CUDA OOM, I also love to build fun side projects, including [LLMc](https://github.com/uw-syfi/LLMc) (A LLM–powered language compressor), [Remire OS](https://github.com/Conless/remire) (an Rust microkernel), [Gelato GPU](https://github.com/dolce-project/gelato) (a RISC-V GPGPU), [CachedLLM](https://github.com/Conless/CachedLLM) (an LLM serving system with dynamic page cache), [Comet Compiler](https://github.com/Conless/comet), (an educational purpose C-like compiler).
 
 ---
 
-* [Home Page](https://conless.dev) (under maintenance)
+* [Home Page](https://conless.dev)
 * [Curriculum Vitae](https://conless.dev/assets/pdf/resume.pdf)
 * [Blog](https://conless.dev/blog)
 
