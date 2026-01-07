@@ -10,7 +10,7 @@ I’m Yi Pan, a senior undergraduate from SJTU ACM Class, caffeine enthusiast, a
 ---
 
 * [Home Page](https://conless.dev)
-* [Curriculum Vitae](https://conless.dev/assets/pdf/resume.pdf)
+* [Curriculum Vitae](https://conless.dev/assets/pdf/cv.pdf)
 * [Blog](https://conless.dev/blog)
 
 <details>
